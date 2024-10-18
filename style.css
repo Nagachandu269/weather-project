@@ -13,6 +13,8 @@
 body{
     background-image:url('./climate.jpg');
     background-size: 100%;
+     background-repeat: no-repeat;
+    
 
 
 }
